@@ -2,14 +2,14 @@ import Card, { PersonPropsTypes } from "./components/Card";
 
 const persons: PersonPropsTypes[] = [
   {
-    name: "Tushar",
-    intrests: ["coding", "youtube", "teaching"],
-    job: "YouTuber",
+    name: "Nilesh",
+    intrests: ["coding", "dev", "sports"],
+    job: "student",
     socials: [
-      { socialName: "YouTube", url: "https://www.youtube.com/@codesoni" },
+      { socialName: "github", url: "https://github.com/kamal9580" },
       {
         socialName: "LinkedIn",
-        url: "https://www.linkedin.com/in/tushar-verma-developer/",
+        url: "https://www.linkedin.com/in/nilesh-kumar-kamal-655957213/",
       },
     ],
   },
